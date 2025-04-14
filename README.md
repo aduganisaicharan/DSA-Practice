@@ -18,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0022-generate-parentheses](https://github.com/aduganisaicharan/DSA-Practice/tree/master/0022-generate-parentheses) |
 | [2816-lexicographically-smallest-palindrome](https://github.com/aduganisaicharan/DSA-Practice/tree/master/2816-lexicographically-smallest-palindrome) |
 ## Greedy
 |  |
@@ -31,4 +32,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1656-count-good-triplets](https://github.com/aduganisaicharan/DSA-Practice/tree/master/1656-count-good-triplets) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0022-generate-parentheses](https://github.com/aduganisaicharan/DSA-Practice/tree/master/0022-generate-parentheses) |
+## Backtracking
+|  |
+| ------- |
+| [0022-generate-parentheses](https://github.com/aduganisaicharan/DSA-Practice/tree/master/0022-generate-parentheses) |
 <!---LeetCode Topics End-->
