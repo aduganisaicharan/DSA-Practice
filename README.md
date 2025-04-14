@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0907-koko-eating-bananas](https://github.com/aduganisaicharan/DSA-Practice/tree/master/0907-koko-eating-bananas) |
+| [1656-count-good-triplets](https://github.com/aduganisaicharan/DSA-Practice/tree/master/1656-count-good-triplets) |
 | [2480-find-subarrays-with-equal-sum](https://github.com/aduganisaicharan/DSA-Practice/tree/master/2480-find-subarrays-with-equal-sum) |
 ## Binary Search
 |  |
@@ -26,4 +27,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2480-find-subarrays-with-equal-sum](https://github.com/aduganisaicharan/DSA-Practice/tree/master/2480-find-subarrays-with-equal-sum) |
+## Enumeration
+|  |
+| ------- |
+| [1656-count-good-triplets](https://github.com/aduganisaicharan/DSA-Practice/tree/master/1656-count-good-triplets) |
 <!---LeetCode Topics End-->
