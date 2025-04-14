@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0039-combination-sum](https://github.com/aduganisaicharan/DSA-Practice/tree/master/0039-combination-sum) |
 | [0040-combination-sum-ii](https://github.com/aduganisaicharan/DSA-Practice/tree/master/0040-combination-sum-ii) |
 | [0090-subsets-ii](https://github.com/aduganisaicharan/DSA-Practice/tree/master/0090-subsets-ii) |
+| [0216-combination-sum-iii](https://github.com/aduganisaicharan/DSA-Practice/tree/master/0216-combination-sum-iii) |
 | [0698-partition-to-k-equal-sum-subsets](https://github.com/aduganisaicharan/DSA-Practice/tree/master/0698-partition-to-k-equal-sum-subsets) |
 | [0907-koko-eating-bananas](https://github.com/aduganisaicharan/DSA-Practice/tree/master/0907-koko-eating-bananas) |
 | [1656-count-good-triplets](https://github.com/aduganisaicharan/DSA-Practice/tree/master/1656-count-good-triplets) |
@@ -48,6 +49,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0039-combination-sum](https://github.com/aduganisaicharan/DSA-Practice/tree/master/0039-combination-sum) |
 | [0040-combination-sum-ii](https://github.com/aduganisaicharan/DSA-Practice/tree/master/0040-combination-sum-ii) |
 | [0090-subsets-ii](https://github.com/aduganisaicharan/DSA-Practice/tree/master/0090-subsets-ii) |
+| [0216-combination-sum-iii](https://github.com/aduganisaicharan/DSA-Practice/tree/master/0216-combination-sum-iii) |
 | [0698-partition-to-k-equal-sum-subsets](https://github.com/aduganisaicharan/DSA-Practice/tree/master/0698-partition-to-k-equal-sum-subsets) |
 ## Bit Manipulation
 |  |
