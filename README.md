@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0216-combination-sum-iii](https://github.com/aduganisaicharan/DSA-Practice/tree/master/0216-combination-sum-iii) |
 | [0698-partition-to-k-equal-sum-subsets](https://github.com/aduganisaicharan/DSA-Practice/tree/master/0698-partition-to-k-equal-sum-subsets) |
 | [0907-koko-eating-bananas](https://github.com/aduganisaicharan/DSA-Practice/tree/master/0907-koko-eating-bananas) |
+| [1519-minimum-subsequence-in-non-increasing-order](https://github.com/aduganisaicharan/DSA-Practice/tree/master/1519-minimum-subsequence-in-non-increasing-order) |
 | [1656-count-good-triplets](https://github.com/aduganisaicharan/DSA-Practice/tree/master/1656-count-good-triplets) |
 | [2480-find-subarrays-with-equal-sum](https://github.com/aduganisaicharan/DSA-Practice/tree/master/2480-find-subarrays-with-equal-sum) |
 ## Binary Search
@@ -28,6 +29,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Greedy
 |  |
 | ------- |
+| [1519-minimum-subsequence-in-non-increasing-order](https://github.com/aduganisaicharan/DSA-Practice/tree/master/1519-minimum-subsequence-in-non-increasing-order) |
 | [2816-lexicographically-smallest-palindrome](https://github.com/aduganisaicharan/DSA-Practice/tree/master/2816-lexicographically-smallest-palindrome) |
 ## Hash Table
 |  |
@@ -64,4 +66,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0698-partition-to-k-equal-sum-subsets](https://github.com/aduganisaicharan/DSA-Practice/tree/master/0698-partition-to-k-equal-sum-subsets) |
+## Sorting
+|  |
+| ------- |
+| [1519-minimum-subsequence-in-non-increasing-order](https://github.com/aduganisaicharan/DSA-Practice/tree/master/1519-minimum-subsequence-in-non-increasing-order) |
 <!---LeetCode Topics End-->
