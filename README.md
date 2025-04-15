@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0040-combination-sum-ii](https://github.com/aduganisaicharan/DSA-Practice/tree/master/0040-combination-sum-ii) |
 | [0090-subsets-ii](https://github.com/aduganisaicharan/DSA-Practice/tree/master/0090-subsets-ii) |
 | [0216-combination-sum-iii](https://github.com/aduganisaicharan/DSA-Practice/tree/master/0216-combination-sum-iii) |
+| [0491-non-decreasing-subsequences](https://github.com/aduganisaicharan/DSA-Practice/tree/master/0491-non-decreasing-subsequences) |
 | [0674-longest-continuous-increasing-subsequence](https://github.com/aduganisaicharan/DSA-Practice/tree/master/0674-longest-continuous-increasing-subsequence) |
 | [0698-partition-to-k-equal-sum-subsets](https://github.com/aduganisaicharan/DSA-Practice/tree/master/0698-partition-to-k-equal-sum-subsets) |
 | [0907-koko-eating-bananas](https://github.com/aduganisaicharan/DSA-Practice/tree/master/0907-koko-eating-bananas) |
@@ -38,6 +39,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/aduganisaicharan/DSA-Practice/tree/master/0017-letter-combinations-of-a-phone-number) |
+| [0491-non-decreasing-subsequences](https://github.com/aduganisaicharan/DSA-Practice/tree/master/0491-non-decreasing-subsequences) |
 | [2480-find-subarrays-with-equal-sum](https://github.com/aduganisaicharan/DSA-Practice/tree/master/2480-find-subarrays-with-equal-sum) |
 ## Enumeration
 |  |
@@ -59,11 +61,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0090-subsets-ii](https://github.com/aduganisaicharan/DSA-Practice/tree/master/0090-subsets-ii) |
 | [0131-palindrome-partitioning](https://github.com/aduganisaicharan/DSA-Practice/tree/master/0131-palindrome-partitioning) |
 | [0216-combination-sum-iii](https://github.com/aduganisaicharan/DSA-Practice/tree/master/0216-combination-sum-iii) |
+| [0491-non-decreasing-subsequences](https://github.com/aduganisaicharan/DSA-Practice/tree/master/0491-non-decreasing-subsequences) |
 | [0698-partition-to-k-equal-sum-subsets](https://github.com/aduganisaicharan/DSA-Practice/tree/master/0698-partition-to-k-equal-sum-subsets) |
 ## Bit Manipulation
 |  |
 | ------- |
 | [0090-subsets-ii](https://github.com/aduganisaicharan/DSA-Practice/tree/master/0090-subsets-ii) |
+| [0491-non-decreasing-subsequences](https://github.com/aduganisaicharan/DSA-Practice/tree/master/0491-non-decreasing-subsequences) |
 | [0698-partition-to-k-equal-sum-subsets](https://github.com/aduganisaicharan/DSA-Practice/tree/master/0698-partition-to-k-equal-sum-subsets) |
 ## Memoization
 |  |
