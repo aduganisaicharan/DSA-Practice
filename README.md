@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1519-minimum-subsequence-in-non-increasing-order](https://github.com/aduganisaicharan/DSA-Practice/tree/master/1519-minimum-subsequence-in-non-increasing-order) |
 | [1656-count-good-triplets](https://github.com/aduganisaicharan/DSA-Practice/tree/master/1656-count-good-triplets) |
 | [2480-find-subarrays-with-equal-sum](https://github.com/aduganisaicharan/DSA-Practice/tree/master/2480-find-subarrays-with-equal-sum) |
+| [2626-count-the-number-of-good-subarrays](https://github.com/aduganisaicharan/DSA-Practice/tree/master/2626-count-the-number-of-good-subarrays) |
 ## Binary Search
 |  |
 | ------- |
@@ -41,6 +42,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0017-letter-combinations-of-a-phone-number](https://github.com/aduganisaicharan/DSA-Practice/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0491-non-decreasing-subsequences](https://github.com/aduganisaicharan/DSA-Practice/tree/master/0491-non-decreasing-subsequences) |
 | [2480-find-subarrays-with-equal-sum](https://github.com/aduganisaicharan/DSA-Practice/tree/master/2480-find-subarrays-with-equal-sum) |
+| [2626-count-the-number-of-good-subarrays](https://github.com/aduganisaicharan/DSA-Practice/tree/master/2626-count-the-number-of-good-subarrays) |
 ## Enumeration
 |  |
 | ------- |
@@ -81,4 +83,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1519-minimum-subsequence-in-non-increasing-order](https://github.com/aduganisaicharan/DSA-Practice/tree/master/1519-minimum-subsequence-in-non-increasing-order) |
+## Sliding Window
+|  |
+| ------- |
+| [2626-count-the-number-of-good-subarrays](https://github.com/aduganisaicharan/DSA-Practice/tree/master/2626-count-the-number-of-good-subarrays) |
 <!---LeetCode Topics End-->
