@@ -33,6 +33,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/aduganisaicharan/DSA-Practice/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0022-generate-parentheses](https://github.com/aduganisaicharan/DSA-Practice/tree/master/0022-generate-parentheses) |
+| [0038-count-and-say](https://github.com/aduganisaicharan/DSA-Practice/tree/master/0038-count-and-say) |
 | [0079-word-search](https://github.com/aduganisaicharan/DSA-Practice/tree/master/0079-word-search) |
 | [0131-palindrome-partitioning](https://github.com/aduganisaicharan/DSA-Practice/tree/master/0131-palindrome-partitioning) |
 | [2816-lexicographically-smallest-palindrome](https://github.com/aduganisaicharan/DSA-Practice/tree/master/2816-lexicographically-smallest-palindrome) |
