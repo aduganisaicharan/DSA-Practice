@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0046-permutations](https://github.com/aduganisaicharan/DSA-Practice/tree/master/0046-permutations) |
 | [0047-permutations-ii](https://github.com/aduganisaicharan/DSA-Practice/tree/master/0047-permutations-ii) |
 | [0051-n-queens](https://github.com/aduganisaicharan/DSA-Practice/tree/master/0051-n-queens) |
+| [0053-maximum-subarray](https://github.com/aduganisaicharan/DSA-Practice/tree/master/0053-maximum-subarray) |
 | [0079-word-search](https://github.com/aduganisaicharan/DSA-Practice/tree/master/0079-word-search) |
 | [0090-subsets-ii](https://github.com/aduganisaicharan/DSA-Practice/tree/master/0090-subsets-ii) |
 | [0216-combination-sum-iii](https://github.com/aduganisaicharan/DSA-Practice/tree/master/0216-combination-sum-iii) |
@@ -67,6 +68,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0022-generate-parentheses](https://github.com/aduganisaicharan/DSA-Practice/tree/master/0022-generate-parentheses) |
+| [0053-maximum-subarray](https://github.com/aduganisaicharan/DSA-Practice/tree/master/0053-maximum-subarray) |
 | [0131-palindrome-partitioning](https://github.com/aduganisaicharan/DSA-Practice/tree/master/0131-palindrome-partitioning) |
 | [0698-partition-to-k-equal-sum-subsets](https://github.com/aduganisaicharan/DSA-Practice/tree/master/0698-partition-to-k-equal-sum-subsets) |
 ## Backtracking
@@ -134,4 +136,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2527-count-subarrays-with-fixed-bounds](https://github.com/aduganisaicharan/DSA-Practice/tree/master/2527-count-subarrays-with-fixed-bounds) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0053-maximum-subarray](https://github.com/aduganisaicharan/DSA-Practice/tree/master/0053-maximum-subarray) |
 <!---LeetCode Topics End-->
