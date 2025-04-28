@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0209-minimum-size-subarray-sum](https://github.com/aduganisaicharan/DSA-Practice/tree/master/0209-minimum-size-subarray-sum) |
 | [0216-combination-sum-iii](https://github.com/aduganisaicharan/DSA-Practice/tree/master/0216-combination-sum-iii) |
 | [0238-product-of-array-except-self](https://github.com/aduganisaicharan/DSA-Practice/tree/master/0238-product-of-array-except-self) |
+| [0287-find-the-duplicate-number](https://github.com/aduganisaicharan/DSA-Practice/tree/master/0287-find-the-duplicate-number) |
 | [0318-maximum-product-of-word-lengths](https://github.com/aduganisaicharan/DSA-Practice/tree/master/0318-maximum-product-of-word-lengths) |
 | [0491-non-decreasing-subsequences](https://github.com/aduganisaicharan/DSA-Practice/tree/master/0491-non-decreasing-subsequences) |
 | [0674-longest-continuous-increasing-subsequence](https://github.com/aduganisaicharan/DSA-Practice/tree/master/0674-longest-continuous-increasing-subsequence) |
@@ -38,6 +39,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0209-minimum-size-subarray-sum](https://github.com/aduganisaicharan/DSA-Practice/tree/master/0209-minimum-size-subarray-sum) |
+| [0287-find-the-duplicate-number](https://github.com/aduganisaicharan/DSA-Practice/tree/master/0287-find-the-duplicate-number) |
 | [0713-subarray-product-less-than-k](https://github.com/aduganisaicharan/DSA-Practice/tree/master/0713-subarray-product-less-than-k) |
 | [0907-koko-eating-bananas](https://github.com/aduganisaicharan/DSA-Practice/tree/master/0907-koko-eating-bananas) |
 | [2394-count-subarrays-with-score-less-than-k](https://github.com/aduganisaicharan/DSA-Practice/tree/master/2394-count-subarrays-with-score-less-than-k) |
@@ -45,6 +47,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0287-find-the-duplicate-number](https://github.com/aduganisaicharan/DSA-Practice/tree/master/0287-find-the-duplicate-number) |
 | [2699-count-the-number-of-fair-pairs](https://github.com/aduganisaicharan/DSA-Practice/tree/master/2699-count-the-number-of-fair-pairs) |
 | [2816-lexicographically-smallest-palindrome](https://github.com/aduganisaicharan/DSA-Practice/tree/master/2816-lexicographically-smallest-palindrome) |
 ## String
@@ -104,6 +107,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0090-subsets-ii](https://github.com/aduganisaicharan/DSA-Practice/tree/master/0090-subsets-ii) |
+| [0287-find-the-duplicate-number](https://github.com/aduganisaicharan/DSA-Practice/tree/master/0287-find-the-duplicate-number) |
 | [0318-maximum-product-of-word-lengths](https://github.com/aduganisaicharan/DSA-Practice/tree/master/0318-maximum-product-of-word-lengths) |
 | [0491-non-decreasing-subsequences](https://github.com/aduganisaicharan/DSA-Practice/tree/master/0491-non-decreasing-subsequences) |
 | [0693-binary-number-with-alternating-bits](https://github.com/aduganisaicharan/DSA-Practice/tree/master/0693-binary-number-with-alternating-bits) |
