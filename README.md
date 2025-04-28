@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0053-maximum-subarray](https://github.com/aduganisaicharan/DSA-Practice/tree/master/0053-maximum-subarray) |
 | [0079-word-search](https://github.com/aduganisaicharan/DSA-Practice/tree/master/0079-word-search) |
 | [0090-subsets-ii](https://github.com/aduganisaicharan/DSA-Practice/tree/master/0090-subsets-ii) |
+| [0209-minimum-size-subarray-sum](https://github.com/aduganisaicharan/DSA-Practice/tree/master/0209-minimum-size-subarray-sum) |
 | [0216-combination-sum-iii](https://github.com/aduganisaicharan/DSA-Practice/tree/master/0216-combination-sum-iii) |
 | [0238-product-of-array-except-self](https://github.com/aduganisaicharan/DSA-Practice/tree/master/0238-product-of-array-except-self) |
 | [0318-maximum-product-of-word-lengths](https://github.com/aduganisaicharan/DSA-Practice/tree/master/0318-maximum-product-of-word-lengths) |
@@ -36,6 +37,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Search
 |  |
 | ------- |
+| [0209-minimum-size-subarray-sum](https://github.com/aduganisaicharan/DSA-Practice/tree/master/0209-minimum-size-subarray-sum) |
 | [0713-subarray-product-less-than-k](https://github.com/aduganisaicharan/DSA-Practice/tree/master/0713-subarray-product-less-than-k) |
 | [0907-koko-eating-bananas](https://github.com/aduganisaicharan/DSA-Practice/tree/master/0907-koko-eating-bananas) |
 | [2394-count-subarrays-with-score-less-than-k](https://github.com/aduganisaicharan/DSA-Practice/tree/master/2394-count-subarrays-with-score-less-than-k) |
@@ -124,6 +126,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sliding Window
 |  |
 | ------- |
+| [0209-minimum-size-subarray-sum](https://github.com/aduganisaicharan/DSA-Practice/tree/master/0209-minimum-size-subarray-sum) |
 | [0713-subarray-product-less-than-k](https://github.com/aduganisaicharan/DSA-Practice/tree/master/0713-subarray-product-less-than-k) |
 | [0966-binary-subarrays-with-sum](https://github.com/aduganisaicharan/DSA-Practice/tree/master/0966-binary-subarrays-with-sum) |
 | [2394-count-subarrays-with-score-less-than-k](https://github.com/aduganisaicharan/DSA-Practice/tree/master/2394-count-subarrays-with-score-less-than-k) |
@@ -159,6 +162,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Prefix Sum
 |  |
 | ------- |
+| [0209-minimum-size-subarray-sum](https://github.com/aduganisaicharan/DSA-Practice/tree/master/0209-minimum-size-subarray-sum) |
 | [0238-product-of-array-except-self](https://github.com/aduganisaicharan/DSA-Practice/tree/master/0238-product-of-array-except-self) |
 | [0713-subarray-product-less-than-k](https://github.com/aduganisaicharan/DSA-Practice/tree/master/0713-subarray-product-less-than-k) |
 | [0966-binary-subarrays-with-sum](https://github.com/aduganisaicharan/DSA-Practice/tree/master/0966-binary-subarrays-with-sum) |
