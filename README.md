@@ -107,6 +107,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0090-subsets-ii](https://github.com/aduganisaicharan/DSA-Practice/tree/master/0090-subsets-ii) |
+| [0190-reverse-bits](https://github.com/aduganisaicharan/DSA-Practice/tree/master/0190-reverse-bits) |
 | [0287-find-the-duplicate-number](https://github.com/aduganisaicharan/DSA-Practice/tree/master/0287-find-the-duplicate-number) |
 | [0318-maximum-product-of-word-lengths](https://github.com/aduganisaicharan/DSA-Practice/tree/master/0318-maximum-product-of-word-lengths) |
 | [0491-non-decreasing-subsequences](https://github.com/aduganisaicharan/DSA-Practice/tree/master/0491-non-decreasing-subsequences) |
@@ -163,6 +164,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0053-maximum-subarray](https://github.com/aduganisaicharan/DSA-Practice/tree/master/0053-maximum-subarray) |
+| [0190-reverse-bits](https://github.com/aduganisaicharan/DSA-Practice/tree/master/0190-reverse-bits) |
 ## Prefix Sum
 |  |
 | ------- |
