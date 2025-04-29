@@ -22,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0674-longest-continuous-increasing-subsequence](https://github.com/aduganisaicharan/DSA-Practice/tree/master/0674-longest-continuous-increasing-subsequence) |
 | [0698-partition-to-k-equal-sum-subsets](https://github.com/aduganisaicharan/DSA-Practice/tree/master/0698-partition-to-k-equal-sum-subsets) |
 | [0713-subarray-product-less-than-k](https://github.com/aduganisaicharan/DSA-Practice/tree/master/0713-subarray-product-less-than-k) |
+| [0718-maximum-length-of-repeated-subarray](https://github.com/aduganisaicharan/DSA-Practice/tree/master/0718-maximum-length-of-repeated-subarray) |
 | [0907-koko-eating-bananas](https://github.com/aduganisaicharan/DSA-Practice/tree/master/0907-koko-eating-bananas) |
 | [0966-binary-subarrays-with-sum](https://github.com/aduganisaicharan/DSA-Practice/tree/master/0966-binary-subarrays-with-sum) |
 | [1071-binary-prefix-divisible-by-5](https://github.com/aduganisaicharan/DSA-Practice/tree/master/1071-binary-prefix-divisible-by-5) |
@@ -41,6 +42,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0209-minimum-size-subarray-sum](https://github.com/aduganisaicharan/DSA-Practice/tree/master/0209-minimum-size-subarray-sum) |
 | [0287-find-the-duplicate-number](https://github.com/aduganisaicharan/DSA-Practice/tree/master/0287-find-the-duplicate-number) |
 | [0713-subarray-product-less-than-k](https://github.com/aduganisaicharan/DSA-Practice/tree/master/0713-subarray-product-less-than-k) |
+| [0718-maximum-length-of-repeated-subarray](https://github.com/aduganisaicharan/DSA-Practice/tree/master/0718-maximum-length-of-repeated-subarray) |
 | [0907-koko-eating-bananas](https://github.com/aduganisaicharan/DSA-Practice/tree/master/0907-koko-eating-bananas) |
 | [2394-count-subarrays-with-score-less-than-k](https://github.com/aduganisaicharan/DSA-Practice/tree/master/2394-count-subarrays-with-score-less-than-k) |
 | [2699-count-the-number-of-fair-pairs](https://github.com/aduganisaicharan/DSA-Practice/tree/master/2699-count-the-number-of-fair-pairs) |
@@ -87,6 +89,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0053-maximum-subarray](https://github.com/aduganisaicharan/DSA-Practice/tree/master/0053-maximum-subarray) |
 | [0131-palindrome-partitioning](https://github.com/aduganisaicharan/DSA-Practice/tree/master/0131-palindrome-partitioning) |
 | [0698-partition-to-k-equal-sum-subsets](https://github.com/aduganisaicharan/DSA-Practice/tree/master/0698-partition-to-k-equal-sum-subsets) |
+| [0718-maximum-length-of-repeated-subarray](https://github.com/aduganisaicharan/DSA-Practice/tree/master/0718-maximum-length-of-repeated-subarray) |
 ## Backtracking
 |  |
 | ------- |
@@ -134,6 +137,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0209-minimum-size-subarray-sum](https://github.com/aduganisaicharan/DSA-Practice/tree/master/0209-minimum-size-subarray-sum) |
 | [0713-subarray-product-less-than-k](https://github.com/aduganisaicharan/DSA-Practice/tree/master/0713-subarray-product-less-than-k) |
+| [0718-maximum-length-of-repeated-subarray](https://github.com/aduganisaicharan/DSA-Practice/tree/master/0718-maximum-length-of-repeated-subarray) |
 | [0966-binary-subarrays-with-sum](https://github.com/aduganisaicharan/DSA-Practice/tree/master/0966-binary-subarrays-with-sum) |
 | [2394-count-subarrays-with-score-less-than-k](https://github.com/aduganisaicharan/DSA-Practice/tree/master/2394-count-subarrays-with-score-less-than-k) |
 | [2527-count-subarrays-with-fixed-bounds](https://github.com/aduganisaicharan/DSA-Practice/tree/master/2527-count-subarrays-with-fixed-bounds) |
@@ -178,4 +182,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1146-greatest-common-divisor-of-strings](https://github.com/aduganisaicharan/DSA-Practice/tree/master/1146-greatest-common-divisor-of-strings) |
+## Rolling Hash
+|  |
+| ------- |
+| [0718-maximum-length-of-repeated-subarray](https://github.com/aduganisaicharan/DSA-Practice/tree/master/0718-maximum-length-of-repeated-subarray) |
+## Hash Function
+|  |
+| ------- |
+| [0718-maximum-length-of-repeated-subarray](https://github.com/aduganisaicharan/DSA-Practice/tree/master/0718-maximum-length-of-repeated-subarray) |
 <!---LeetCode Topics End-->
