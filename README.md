@@ -25,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0718-maximum-length-of-repeated-subarray](https://github.com/aduganisaicharan/DSA-Practice/tree/master/0718-maximum-length-of-repeated-subarray) |
 | [0907-koko-eating-bananas](https://github.com/aduganisaicharan/DSA-Practice/tree/master/0907-koko-eating-bananas) |
 | [0966-binary-subarrays-with-sum](https://github.com/aduganisaicharan/DSA-Practice/tree/master/0966-binary-subarrays-with-sum) |
+| [1049-minimum-domino-rotations-for-equal-row](https://github.com/aduganisaicharan/DSA-Practice/tree/master/1049-minimum-domino-rotations-for-equal-row) |
 | [1071-binary-prefix-divisible-by-5](https://github.com/aduganisaicharan/DSA-Practice/tree/master/1071-binary-prefix-divisible-by-5) |
 | [1342-queens-that-can-attack-the-king](https://github.com/aduganisaicharan/DSA-Practice/tree/master/1342-queens-that-can-attack-the-king) |
 | [1421-find-numbers-with-even-number-of-digits](https://github.com/aduganisaicharan/DSA-Practice/tree/master/1421-find-numbers-with-even-number-of-digits) |
@@ -68,6 +69,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Greedy
 |  |
 | ------- |
+| [1049-minimum-domino-rotations-for-equal-row](https://github.com/aduganisaicharan/DSA-Practice/tree/master/1049-minimum-domino-rotations-for-equal-row) |
 | [1519-minimum-subsequence-in-non-increasing-order](https://github.com/aduganisaicharan/DSA-Practice/tree/master/1519-minimum-subsequence-in-non-increasing-order) |
 | [2816-lexicographically-smallest-palindrome](https://github.com/aduganisaicharan/DSA-Practice/tree/master/2816-lexicographically-smallest-palindrome) |
 ## Hash Table
