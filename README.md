@@ -113,6 +113,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bit Manipulation
 |  |
 | ------- |
+| [0029-divide-two-integers](https://github.com/aduganisaicharan/DSA-Practice/tree/master/0029-divide-two-integers) |
 | [0090-subsets-ii](https://github.com/aduganisaicharan/DSA-Practice/tree/master/0090-subsets-ii) |
 | [0190-reverse-bits](https://github.com/aduganisaicharan/DSA-Practice/tree/master/0190-reverse-bits) |
 | [0287-find-the-duplicate-number](https://github.com/aduganisaicharan/DSA-Practice/tree/master/0287-find-the-duplicate-number) |
@@ -185,6 +186,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0029-divide-two-integers](https://github.com/aduganisaicharan/DSA-Practice/tree/master/0029-divide-two-integers) |
 | [1146-greatest-common-divisor-of-strings](https://github.com/aduganisaicharan/DSA-Practice/tree/master/1146-greatest-common-divisor-of-strings) |
 | [1421-find-numbers-with-even-number-of-digits](https://github.com/aduganisaicharan/DSA-Practice/tree/master/1421-find-numbers-with-even-number-of-digits) |
 ## Rolling Hash
