@@ -58,6 +58,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/aduganisaicharan/DSA-Practice/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/aduganisaicharan/DSA-Practice/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0022-generate-parentheses](https://github.com/aduganisaicharan/DSA-Practice/tree/master/0022-generate-parentheses) |
 | [0038-count-and-say](https://github.com/aduganisaicharan/DSA-Practice/tree/master/0038-count-and-say) |
@@ -76,6 +77,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/aduganisaicharan/DSA-Practice/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/aduganisaicharan/DSA-Practice/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0037-sudoku-solver](https://github.com/aduganisaicharan/DSA-Practice/tree/master/0037-sudoku-solver) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/aduganisaicharan/DSA-Practice/tree/master/0438-find-all-anagrams-in-a-string) |
@@ -143,6 +145,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sliding Window
 |  |
 | ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/aduganisaicharan/DSA-Practice/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0209-minimum-size-subarray-sum](https://github.com/aduganisaicharan/DSA-Practice/tree/master/0209-minimum-size-subarray-sum) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/aduganisaicharan/DSA-Practice/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0713-subarray-product-less-than-k](https://github.com/aduganisaicharan/DSA-Practice/tree/master/0713-subarray-product-less-than-k) |
