@@ -27,6 +27,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0966-binary-subarrays-with-sum](https://github.com/aduganisaicharan/DSA-Practice/tree/master/0966-binary-subarrays-with-sum) |
 | [1049-minimum-domino-rotations-for-equal-row](https://github.com/aduganisaicharan/DSA-Practice/tree/master/1049-minimum-domino-rotations-for-equal-row) |
 | [1071-binary-prefix-divisible-by-5](https://github.com/aduganisaicharan/DSA-Practice/tree/master/1071-binary-prefix-divisible-by-5) |
+| [1227-number-of-equivalent-domino-pairs](https://github.com/aduganisaicharan/DSA-Practice/tree/master/1227-number-of-equivalent-domino-pairs) |
 | [1342-queens-that-can-attack-the-king](https://github.com/aduganisaicharan/DSA-Practice/tree/master/1342-queens-that-can-attack-the-king) |
 | [1421-find-numbers-with-even-number-of-digits](https://github.com/aduganisaicharan/DSA-Practice/tree/master/1421-find-numbers-with-even-number-of-digits) |
 | [1519-minimum-subsequence-in-non-increasing-order](https://github.com/aduganisaicharan/DSA-Practice/tree/master/1519-minimum-subsequence-in-non-increasing-order) |
@@ -80,6 +81,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0438-find-all-anagrams-in-a-string](https://github.com/aduganisaicharan/DSA-Practice/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0491-non-decreasing-subsequences](https://github.com/aduganisaicharan/DSA-Practice/tree/master/0491-non-decreasing-subsequences) |
 | [0966-binary-subarrays-with-sum](https://github.com/aduganisaicharan/DSA-Practice/tree/master/0966-binary-subarrays-with-sum) |
+| [1227-number-of-equivalent-domino-pairs](https://github.com/aduganisaicharan/DSA-Practice/tree/master/1227-number-of-equivalent-domino-pairs) |
 | [2480-find-subarrays-with-equal-sum](https://github.com/aduganisaicharan/DSA-Practice/tree/master/2480-find-subarrays-with-equal-sum) |
 | [2626-count-the-number-of-good-subarrays](https://github.com/aduganisaicharan/DSA-Practice/tree/master/2626-count-the-number-of-good-subarrays) |
 | [2856-count-complete-subarrays-in-an-array](https://github.com/aduganisaicharan/DSA-Practice/tree/master/2856-count-complete-subarrays-in-an-array) |
@@ -199,4 +201,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0718-maximum-length-of-repeated-subarray](https://github.com/aduganisaicharan/DSA-Practice/tree/master/0718-maximum-length-of-repeated-subarray) |
+## Counting
+|  |
+| ------- |
+| [1227-number-of-equivalent-domino-pairs](https://github.com/aduganisaicharan/DSA-Practice/tree/master/1227-number-of-equivalent-domino-pairs) |
 <!---LeetCode Topics End-->
