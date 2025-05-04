@@ -66,6 +66,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0079-word-search](https://github.com/aduganisaicharan/DSA-Practice/tree/master/0079-word-search) |
 | [0131-palindrome-partitioning](https://github.com/aduganisaicharan/DSA-Practice/tree/master/0131-palindrome-partitioning) |
 | [0318-maximum-product-of-word-lengths](https://github.com/aduganisaicharan/DSA-Practice/tree/master/0318-maximum-product-of-word-lengths) |
+| [0424-longest-repeating-character-replacement](https://github.com/aduganisaicharan/DSA-Practice/tree/master/0424-longest-repeating-character-replacement) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/aduganisaicharan/DSA-Practice/tree/master/0438-find-all-anagrams-in-a-string) |
 | [1146-greatest-common-divisor-of-strings](https://github.com/aduganisaicharan/DSA-Practice/tree/master/1146-greatest-common-divisor-of-strings) |
 | [2816-lexicographically-smallest-palindrome](https://github.com/aduganisaicharan/DSA-Practice/tree/master/2816-lexicographically-smallest-palindrome) |
@@ -81,6 +82,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0003-longest-substring-without-repeating-characters](https://github.com/aduganisaicharan/DSA-Practice/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/aduganisaicharan/DSA-Practice/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0037-sudoku-solver](https://github.com/aduganisaicharan/DSA-Practice/tree/master/0037-sudoku-solver) |
+| [0424-longest-repeating-character-replacement](https://github.com/aduganisaicharan/DSA-Practice/tree/master/0424-longest-repeating-character-replacement) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/aduganisaicharan/DSA-Practice/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0491-non-decreasing-subsequences](https://github.com/aduganisaicharan/DSA-Practice/tree/master/0491-non-decreasing-subsequences) |
 | [0940-fruit-into-baskets](https://github.com/aduganisaicharan/DSA-Practice/tree/master/0940-fruit-into-baskets) |
@@ -149,6 +151,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/aduganisaicharan/DSA-Practice/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0209-minimum-size-subarray-sum](https://github.com/aduganisaicharan/DSA-Practice/tree/master/0209-minimum-size-subarray-sum) |
+| [0424-longest-repeating-character-replacement](https://github.com/aduganisaicharan/DSA-Practice/tree/master/0424-longest-repeating-character-replacement) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/aduganisaicharan/DSA-Practice/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0713-subarray-product-less-than-k](https://github.com/aduganisaicharan/DSA-Practice/tree/master/0713-subarray-product-less-than-k) |
 | [0718-maximum-length-of-repeated-subarray](https://github.com/aduganisaicharan/DSA-Practice/tree/master/0718-maximum-length-of-repeated-subarray) |
