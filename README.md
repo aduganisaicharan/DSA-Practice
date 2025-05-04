@@ -26,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0907-koko-eating-bananas](https://github.com/aduganisaicharan/DSA-Practice/tree/master/0907-koko-eating-bananas) |
 | [0940-fruit-into-baskets](https://github.com/aduganisaicharan/DSA-Practice/tree/master/0940-fruit-into-baskets) |
 | [0966-binary-subarrays-with-sum](https://github.com/aduganisaicharan/DSA-Practice/tree/master/0966-binary-subarrays-with-sum) |
+| [1034-subarrays-with-k-different-integers](https://github.com/aduganisaicharan/DSA-Practice/tree/master/1034-subarrays-with-k-different-integers) |
 | [1049-minimum-domino-rotations-for-equal-row](https://github.com/aduganisaicharan/DSA-Practice/tree/master/1049-minimum-domino-rotations-for-equal-row) |
 | [1071-binary-prefix-divisible-by-5](https://github.com/aduganisaicharan/DSA-Practice/tree/master/1071-binary-prefix-divisible-by-5) |
 | [1227-number-of-equivalent-domino-pairs](https://github.com/aduganisaicharan/DSA-Practice/tree/master/1227-number-of-equivalent-domino-pairs) |
@@ -89,6 +90,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0491-non-decreasing-subsequences](https://github.com/aduganisaicharan/DSA-Practice/tree/master/0491-non-decreasing-subsequences) |
 | [0940-fruit-into-baskets](https://github.com/aduganisaicharan/DSA-Practice/tree/master/0940-fruit-into-baskets) |
 | [0966-binary-subarrays-with-sum](https://github.com/aduganisaicharan/DSA-Practice/tree/master/0966-binary-subarrays-with-sum) |
+| [1034-subarrays-with-k-different-integers](https://github.com/aduganisaicharan/DSA-Practice/tree/master/1034-subarrays-with-k-different-integers) |
 | [1227-number-of-equivalent-domino-pairs](https://github.com/aduganisaicharan/DSA-Practice/tree/master/1227-number-of-equivalent-domino-pairs) |
 | [1460-number-of-substrings-containing-all-three-characters](https://github.com/aduganisaicharan/DSA-Practice/tree/master/1460-number-of-substrings-containing-all-three-characters) |
 | [2480-find-subarrays-with-equal-sum](https://github.com/aduganisaicharan/DSA-Practice/tree/master/2480-find-subarrays-with-equal-sum) |
@@ -160,6 +162,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0718-maximum-length-of-repeated-subarray](https://github.com/aduganisaicharan/DSA-Practice/tree/master/0718-maximum-length-of-repeated-subarray) |
 | [0940-fruit-into-baskets](https://github.com/aduganisaicharan/DSA-Practice/tree/master/0940-fruit-into-baskets) |
 | [0966-binary-subarrays-with-sum](https://github.com/aduganisaicharan/DSA-Practice/tree/master/0966-binary-subarrays-with-sum) |
+| [1034-subarrays-with-k-different-integers](https://github.com/aduganisaicharan/DSA-Practice/tree/master/1034-subarrays-with-k-different-integers) |
 | [1460-number-of-substrings-containing-all-three-characters](https://github.com/aduganisaicharan/DSA-Practice/tree/master/1460-number-of-substrings-containing-all-three-characters) |
 | [1538-maximum-points-you-can-obtain-from-cards](https://github.com/aduganisaicharan/DSA-Practice/tree/master/1538-maximum-points-you-can-obtain-from-cards) |
 | [2394-count-subarrays-with-score-less-than-k](https://github.com/aduganisaicharan/DSA-Practice/tree/master/2394-count-subarrays-with-score-less-than-k) |
@@ -219,5 +222,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Counting
 |  |
 | ------- |
+| [1034-subarrays-with-k-different-integers](https://github.com/aduganisaicharan/DSA-Practice/tree/master/1034-subarrays-with-k-different-integers) |
 | [1227-number-of-equivalent-domino-pairs](https://github.com/aduganisaicharan/DSA-Practice/tree/master/1227-number-of-equivalent-domino-pairs) |
 <!---LeetCode Topics End-->
