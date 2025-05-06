@@ -1,34 +1,34 @@
 class Solution {
     public String minWindow(String s, String t) {
-        if(t.length() > s.length()) return "";
-        Map<Character, Integer> map = new HashMap<>();
-        for(char c:t.toCharArray()){
-            map.put(c , map.getOrDefault(c, 0) + 1);
+        String ans = "";
+        int anslen = Integer.MAX_VALUE;
+        String res = "";
+        int i=0;
+        int j=0;
+        HashMap<Character, Integer> hash2 = new HashMap<>();
+        for(char ch:t.toCharArray()){
+            hash2.put(ch, hash2.getOrDefault(ch, 0)+1);
         }
-        int cnt = map.size();
-        int j = 0, i = 0, n = s.length();
-        int start = -1, end = -1;
-        while(j < n){
-            char c = s.charAt(j);
-            if(map.containsKey(c)){
-                map.put(c, map.get(c) - 1);
-                if(map.get(c) == 0) cnt--;
+        int cnt = hash2.size();
+        while(j<s.length()){
+            if(hash2.containsKey(s.charAt(j))){
+                hash2.put(s.charAt(j), hash2.get(s.charAt(j))-1);
+                if(hash2.get(s.charAt(j)) == 0)cnt--;
             }
-            while(cnt == 0){
-                char c1 = s.charAt(i);
-                if(map.containsKey(c1)){
-                    map.put(c1, map.get(c1) + 1);
-                    if(map.get(c1) == 1) cnt++;
+            while(i<=j && cnt == 0){
+                if(hash2.containsKey(s.charAt(i))){
+                    hash2.put(s.charAt(i), hash2.get(s.charAt(i))+1);
+                    if(hash2.get(s.charAt(i)) == 1)cnt++;
                 }
-                if(start == -1 || end - start + 1 > j - i + 1){
-                    start = i;
-                    end = j;
+                res = s.substring(i, j+1);
+                if(res.length()<anslen){
+                    anslen = res.length();
+                    ans = res;
                 }
                 i++;
             }
             j++;
         }
-        if(start == -1) return "";
-        return s.substring(start, end+1);
+        return ans;
     }
 }
