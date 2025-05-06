@@ -35,6 +35,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1519-minimum-subsequence-in-non-increasing-order](https://github.com/aduganisaicharan/DSA-Practice/tree/master/1519-minimum-subsequence-in-non-increasing-order) |
 | [1538-maximum-points-you-can-obtain-from-cards](https://github.com/aduganisaicharan/DSA-Practice/tree/master/1538-maximum-points-you-can-obtain-from-cards) |
 | [1656-count-good-triplets](https://github.com/aduganisaicharan/DSA-Practice/tree/master/1656-count-good-triplets) |
+| [2048-build-array-from-permutation](https://github.com/aduganisaicharan/DSA-Practice/tree/master/2048-build-array-from-permutation) |
 | [2277-count-equal-and-divisible-pairs-in-an-array](https://github.com/aduganisaicharan/DSA-Practice/tree/master/2277-count-equal-and-divisible-pairs-in-an-array) |
 | [2394-count-subarrays-with-score-less-than-k](https://github.com/aduganisaicharan/DSA-Practice/tree/master/2394-count-subarrays-with-score-less-than-k) |
 | [2480-find-subarrays-with-equal-sum](https://github.com/aduganisaicharan/DSA-Practice/tree/master/2480-find-subarrays-with-equal-sum) |
@@ -189,6 +190,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1342-queens-that-can-attack-the-king](https://github.com/aduganisaicharan/DSA-Practice/tree/master/1342-queens-that-can-attack-the-king) |
+| [2048-build-array-from-permutation](https://github.com/aduganisaicharan/DSA-Practice/tree/master/2048-build-array-from-permutation) |
 ## Queue
 |  |
 | ------- |
